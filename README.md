@@ -17,9 +17,9 @@ I bridge the gap between user-centric interfaces and intelligent automation. I h
 | Frontend (Professional) | AI & Automation   | Backend (Basic) | Tools              |
 | :---                    | :---              | :---            | :---               |
 | React.js                | Conversational AI | Node.js         | Git                |
-| JavaScript              | API Integration   | Python          | n8n                |
-| TypeScript              |                   | MySQL / SQL     | Jira / Trello      |
-| REST APIs               |                   | PHP             | Project Management |
+| JavaScript              | API Integration   | PHP             | Project Management |
+| TypeScript              | n8n               | SQL             | Trello             |
+| REST APIs               | Python            | MySQL           | Jira               |
 | Bootstrap 5             |                   |                 |                    |
 
 ---
